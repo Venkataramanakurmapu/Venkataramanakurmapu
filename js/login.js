@@ -19,6 +19,6 @@ function validate() {
   }
   else {
     
-   window.location = "../generic.html"; // Redirecting to other page.
+   window.location = "../generic.html"; // Redirecting to other page..
    }
   }
